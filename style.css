@@ -41,13 +41,13 @@ textarea::placeholder{
   font-size: 16px;  
   color: #686a85;
 }
-.row{
+/* .row{
    width: 700px;
    display: flex; 
    justify-content: center;
    align-items: center;
    gap: 20px;
-}
+} */
 button{
     background: #ff2963;
     color: #fff;
